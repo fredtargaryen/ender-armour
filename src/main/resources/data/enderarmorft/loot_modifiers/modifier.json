@@ -1,0 +1,61 @@
+{
+  "type": "enderarmorft:modifier",
+  "conditions": [],
+  "tables": [
+    {
+      "table_name": "minecraft:chests/abandoned_mineshaft",
+      "spawn_probability": 0.1,
+      "enchant_probability": 0.25
+    },
+    {
+      "table_name": "minecraft:chests/buried_treasure",
+      "spawn_probability": 0.1,
+      "enchant_probability": 0.25
+    },
+    {
+      "table_name": "minecraft:chests/end_city_treasure",
+      "spawn_probability": 0.2,
+      "enchant_probability": 1.0
+    },
+    {
+      "table_name": "minecraft:chests/pillager_outpost",
+      "spawn_probability": 0.05,
+      "enchant_probability": 0.0
+    },
+    {
+      "table_name": "minecraft:chests/ruined_portal",
+      "spawn_probability": 0.05,
+      "enchant_probability": 0.75
+    },
+    {
+      "table_name": "minecraft:chests/simple_dungeon",
+      "spawn_probability": 0.1,
+      "enchant_probability": 0.25
+    },
+    {
+      "table_name": "minecraft:chests/spawn_bonus_chest",
+      "spawn_probability": 0.05,
+      "enchant_probability": 0.0
+    },
+    {
+      "table_name": "minecraft:chests/stronghold_corridor",
+      "spawn_probability": 0.1,
+      "enchant_probability": 0.5
+    },
+    {
+      "table_name": "minecraft:chests/woodland_mansion",
+      "spawn_probability": 0.05,
+      "enchant_probability": 0.75
+    },
+    {
+      "table_name": "minecraft:chests/village/village_armorer",
+      "spawn_probability": 0.05,
+      "enchant_probability": 0.0
+    },
+    {
+      "table_name": "minecraft:gameplay/hero_of_the_village/armorer_gift",
+      "spawn_probability": 0.05,
+      "enchant_probability": 0.0
+    }
+  ]
+}

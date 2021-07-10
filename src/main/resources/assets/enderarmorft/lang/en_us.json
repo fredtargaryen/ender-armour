@@ -1,0 +1,7 @@
+{
+    "item.enderarmorft.helmet": "Ender Helmet",
+    "item.enderarmorft.chestplate": "Ender Chestplate",
+    "item.enderarmorft.leggings": "Ender Leggings",
+    "item.enderarmorft.boots": "Ender Boots",
+    "item.enderarmorft.effect": "§dOn hit: teleport behind attacker"
+}
